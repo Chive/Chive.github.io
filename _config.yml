@@ -7,10 +7,10 @@ highlighter: Rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://chive.ch'
+domain_name: 'https://thoenen.kim'
 google_analytics: 'UA-62795232-5'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'http://chive.ch'
+url:            'https://thoenen.kim'
 author:         'Kim Thoenen'
